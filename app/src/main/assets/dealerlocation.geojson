@@ -1,0 +1,34 @@
+{"employeesList":[
+  {
+    "CompanyId": "0003278",
+    "CompanyName_En": "Deep Hyundai",
+    "Phone": "9810153828",
+    "Region": "New Delhi, De",
+    "Province_En": "New Delhi",
+    "Address_En": "K-1,Udyog Nagar Industrial AreaPeeragarhi Crossing, Rohtak Rd",
+    "lat": "22.6197220409066",
+    "lon": "88.35255928250263"
+  },
+  {
+    "CompanyId": "0003279",
+    "CompanyName_En": "Deep Hyundai",
+    "Phone": "9999668840",
+    "Fax": "45553503",
+    "Region": "New Delhi, ND",
+    "Province_En": "New Delhi",
+    "Address_En": "72 - Swarn Park Industrial AreaMundka",
+    "lat": "22.62114154254478",
+    "lon": "88.34887504577637"
+  },
+  {
+    "CompanyId": "0003284",
+    "CompanyName_En": "Hans Hyundai",
+    "Phone": "9911144702",
+    "Region": "New Delhi, ND",
+    "Province_En": "New Delhi",
+    "Address_En": "A- 57, Naraina Industrial AreaPhase- I, Opp. Naraina P.V.R ParkingNaraina",
+    "lat": "22.61965601716522",
+    "lon": "88.34769487380981"
+
+  }
+]}
